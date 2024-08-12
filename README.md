@@ -18,11 +18,16 @@ ejercicio 3 desarrollar un programa que diga que elementos no tiene una lista de
 
 ejercicio 4 promedio de una lista
 codigo:
-[Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/6ff53a1f-9b46-4c25-afeb-f292f4ed6ee8)
+
+salida en consola
+
+![image](https://github.com/user-attachments/assets/a6d9d3bf-f95c-4a75-9200-562a706edc49)
 
 ejercicio 5 media 
 codigo:
 ![image](https://github.com/user-attachments/assets/99e22694-cde7-43ce-a49c-e492bc7f65ff)
 
+salida en consola
 
-
+![image](https://github.com/user-attachments/assets/285a87dc-f022-413a-b856-10866ad900bb)
